@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Autonity</string>
+    <string name="servicesButton">Services</string>
+    <string name="partsButton">Parts</string>
+    <string name="title_activity_part__brand_select">Select a Brand</string>
+    <string name="title_activity_part__model_select">Select Model</string>
+
+    <string-array name="Brand">
+        <item>BMW</item>
+        <item>Nissan</item>
+        <item>Honda</item>
+    </string-array>
+
+    <string-array name="Services">
+        <item>Car Wash</item>
+        <item>Mechanical Repairs</item>
+        <item>Electrical Repairs</item>
+    </string-array>
+
+    <string-array name="Brand_BMW">
+        <item>3 Series</item>
+        <item>5 Series</item>
+        <item>7 Series</item>
+    </string-array>
+
+    <string-array name="Brand_Nissan">
+        <item>Maxima</item>
+        <item>Altima</item>
+        <item>Sunny</item>
+    </string-array>
+
+    <string-array name="Brand_Honda">
+        <item>Civic</item>
+        <item>Jazz</item>
+        <item>CRV</item>
+    </string-array>
+
+    <string-array name="Brand_Year">
+        <item>2012</item>
+        <item>2013</item>
+        <item>2014</item>
+    </string-array>
+    <string name="title_activity_service__brand_select">Select a Brand</string>
+</resources>
